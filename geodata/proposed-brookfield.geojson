@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-72.69744,41.753986],[-72.698974,41.753128],[-72.699837,41.752162],[-72.700604,41.750589],[-72.703192,41.749623],[-72.704726,41.749194],[-72.708945,41.744688],[-72.709807,41.743257],[-72.70952,41.742863]]},"properties":{"name":"Brookfield Connection","type":"proposed"}}
+]}
