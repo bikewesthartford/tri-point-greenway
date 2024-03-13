@@ -1,5 +1,5 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
+# Tri-Point Greenway, Hartford area, CT
+based on Leaflet Maps with Google Sheets template
 
 ## Live links (replace with your own)
 - Leaflet Map https://bikewesthartford.github.io/tri-point-greenway/
